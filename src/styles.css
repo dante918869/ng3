@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+}
+
+h1, h2{
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+p{
+    font-family: 'Lexend Deca', sans-serif;
+}
